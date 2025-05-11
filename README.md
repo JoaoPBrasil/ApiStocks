@@ -11,3 +11,8 @@
 3. Edite o `appsettings.json` e adicione sua chave da API da [Brapi](https://brapi.dev/dashboard)
 4. Rode: dotnet run
 
+Aluno: João Pedro Oliveira Brasil
+RA: 172311360
+UC: Sistemas distribuídos e mobile
+Curso: Ciências da Computação
+Faculdade: Unicuritiba
