@@ -1,7 +1,5 @@
 # ApiStocks
 
---
-
 # Projeto Banner de Ações (.NET + React)
 
 ## 📦 Como rodar
