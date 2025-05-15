@@ -18,4 +18,4 @@
 - UC: Sistemas distribuídos e mobile
 - Curso: Ciências da Computação
 - Faculdade: Unicuritiba
-- Api criada paraum projeto da faculdade
+- Api criada para um projeto da faculdade
